@@ -600,34 +600,14 @@ The primary goal is to automate repetitive invoice-processing tasks while mainta
 
 ---
 
-# 🚧 Future Improvements
-
-Possible future extensions include:
-
-- Improved OCR preprocessing
-- OCR confidence scoring
-- AI/LLM-based invoice extraction
-- Automatic vendor classification
-- REST API
-- Web dashboard
-- Authentication
-- Email notifications
-- Cloud storage integration
-- Docker deployment
-- Scheduled invoice processing
-- Advanced financial analytics
-
----
-
 # 👨‍💻 Author
 
-**Dhruv Thatte**
+**Dhruv**
 
-Student / Developer interested in:
+IoT undergrad interested in:
 
 - Python
 - Automation
-- Data Engineering
 - Machine Learning
 - IoT
 - Backend Development
