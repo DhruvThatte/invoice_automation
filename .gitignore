@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Invoice data
+data/incoming/*
+data/processed/*
+data/review/*
+data/failed/*
+
+# Generated reports
+data/reports/*
+
+# OCR generated images
+data/processed/ocr_images/*
+
+# Keep directory structure
+!data/incoming/.gitkeep
+!data/processed/.gitkeep
+!data/review/.gitkeep
+!data/failed/.gitkeep
+!data/reports/.gitkeep
+
+# All local invoice/test data
+data/raw/
+data/test_batch/
+data/test_new/
+
+# Generated/processed data
+data/incoming/*
+data/processed/*
+data/review/*
+data/failed/*
+data/reports/*
+
+# Keep directory placeholders
+!data/incoming/.gitkeep
+!data/processed/.gitkeep
+!data/review/.gitkeep
+!data/failed/.gitkeep
+!data/reports/.gitkeep
