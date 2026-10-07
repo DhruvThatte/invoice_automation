@@ -142,14 +142,9 @@ invoice-automation/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/invoice-automation.git
+git clone https://github.com/DhruvThatte/invoice-automation.git
 cd invoice-automation
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
-
----
-
 ## 2. Create a virtual environment
 
 Linux/macOS:
